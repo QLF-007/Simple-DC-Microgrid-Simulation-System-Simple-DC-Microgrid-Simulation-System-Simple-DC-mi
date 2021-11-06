@@ -1,0 +1,1 @@
+"./main.obj" "./pid.obj" "./pwm_output.obj" "./tm4c123gh6pm_startup_ccs.obj" "./uartreceive.obj" "../driverlib.lib" "../tm4c123gh6pm.cmd" -llibc.a 
